@@ -1,0 +1,28 @@
+body {
+
+    background-color: black;
+}
+
+#hey1 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 240px;
+}
+
+#hey2 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 600px;
+}
+
+#hey3 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 960px;
+}
