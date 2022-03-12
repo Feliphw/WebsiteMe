@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2019</title>
+    <link rel="stylesheet" href="2019.css"/>
+</head>
+<body>
+
+    <img id="sdd1" src="sdd1.jpg"/>
+    <img id="sdd2" src="sdd2.jpg"/>
+    <img id="sdd3" src="sdd3.jpg"/>
+
+    
+</body>
+</html>
