@@ -1,0 +1,54 @@
+#back {
+    border-radius: 20px;
+    position: absolute;
+    width: 1300px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    height:2000px;
+    background-color: black;
+}
+
+#aba1 {
+
+    height: 150px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 1400px;
+
+}
+
+#aba2 {
+
+    height: 150px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 1400px;
+
+}
+
+#title {
+
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 680px;
+    width: 500px;
+    opacity: 90%;
+}
+
+#moon {
+
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 300px;
+    width: 300px;
+}
+
+#texto {
+
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 700px;
+    width: 450px;
+
+}
