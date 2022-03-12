@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2005</title>
+    <link rel="stylesheet" href="2005.css"/>
+</head>
+<body>
+
+          <img id="img1" src="pic1.jpg"/>     
+          <img id="img2" src="pic2.jpg"/>
+          <img id="img3" src="pic3.jpg"/>
+
+</body>
+</html>
