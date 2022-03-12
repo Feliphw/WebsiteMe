@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2016</title>
+    <link rel="stylesheet" href="2016.css"/>
+</head>
+<body>
+   <img id="pic01" src="pic01.jpg"/>
+   <img id="pic02" src="pic02.jpg"/>
+   <img id="pic03" src="pic03.jpg"/>
+    
+</body>
+</html>
