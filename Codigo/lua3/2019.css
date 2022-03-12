@@ -1,0 +1,28 @@
+body {
+
+    background-color: black;
+}
+
+#sdd1 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 240px;
+}
+
+#sdd2 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 600px;
+}
+
+#sdd3 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 960px;
+}
