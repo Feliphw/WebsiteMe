@@ -1,0 +1,32 @@
+body {
+
+    background-color: black;
+}
+
+#sun1 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 240px;
+}
+
+#sun2 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 600px;
+}
+
+#sun3 {
+    position: absolute;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 960px;
+}
+
+text {
+    color: white;
+}
