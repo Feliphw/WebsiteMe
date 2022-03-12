@@ -1,0 +1,340 @@
+#back {
+    border-radius: 20px;
+    position: absolute;
+    width: 1300px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    height:5000px;
+    background-color: black;
+}
+
+#seta {
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 710px;
+    width: 50px;
+
+
+}
+
+.box {
+    position: absolute;
+
+}
+
+#table {
+   margin-top: 250px;
+   margin-left: 300px;
+
+}
+
+#moon1 {
+    
+    width: 100px;
+
+}
+
+#moon1:hover {
+
+    width: 100px;
+    margin-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#moon1:hover {
+
+    opacity: 70%;
+    margin-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#moon2 {
+
+    width: 100px;
+}
+
+#moon2:hover {
+
+    opacity: 70%;
+    margin-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#moon3 {
+
+    width: 130px;
+}
+
+#moon3:hover {
+
+    opacity: 70%;
+    margin-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#moon4 {
+
+    width: 180px;
+    
+}
+
+
+#moon4:hover {
+
+    opacity: 70%;
+    padding-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#moon5 {
+
+    width:130px;
+    
+}
+
+#moon5:hover {
+
+    opacity: 70%;
+    margin-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#moon6 {
+
+    width: 100px;
+}
+
+#moon6:hover {
+
+    opacity: 70%;
+    margin-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#moon7 {
+
+    width: 100px;
+}
+
+#moon7:hover {
+
+    opacity: 70%;
+    margin-top: 5px;
+    -webkit-transition: all 0.5s ease;
+}
+
+#aba1 {
+
+    height: 150px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 1400px;
+
+}
+
+#aba2 {
+
+    height: 150px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 1400px;
+
+}
+
+#sentimentos {
+    position: absolute;
+    border-radius: 20px;
+    margin-top: 4700px;
+    margin-left: 500px;
+    width: 500px;
+    opacity: 80%;
+}
+
+#sentimentos:hover {
+    opacity: 70%;
+
+}
+
+#table2 {
+
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 320px;
+    width: 1000px;
+}
+
+#receitaaqui {
+    position: absolute;
+    margin-top: 1300px;
+    margin-left: 550px;
+    width: 400px;
+}
+
+#pancake {
+    width: 200px;
+}
+
+#pancake:hover {
+    padding-top: 5px;
+    opacity: 80%;
+    -webkit-transition: all 0.5s ease;
+}
+
+#sushi {
+    width: 200px;
+}
+
+#sushi:hover {
+    padding-top: 5px;
+    opacity: 80%;
+    -webkit-transition: all 0.5s ease;
+}
+
+#pizza {
+    width: 200px;
+}
+
+#pizza:hover {
+    padding-top: 5px;
+    opacity: 80%;
+    -webkit-transition: all 0.5s ease;
+}
+
+#cordeiro {
+    width: 200px;
+}
+
+#cordeiro:hover {
+    padding-top: 5px;
+    opacity: 80%;
+    -webkit-transition: all 0.5s ease;
+}
+
+#pitaia {
+    width: 200px;
+}
+
+#pitaia:hover {
+    padding-top: 5px;
+    opacity: 80%;
+    -webkit-transition: all 0.5s ease;
+}
+
+#framboesa:hover {
+    padding-top: 5px;
+    opacity: 80%;
+    -webkit-transition: all 0.5s ease;
+}
+
+#framboesa {
+    width: 200px;
+}
+
+#box {
+
+    position: absolute;
+    width: 1080px;
+    height: 1650px;
+    border-radius: 20px;
+    margin-top: 1900px;
+    margin-left: 200px;
+    background-color: white;
+ 
+ }
+
+#titulo {
+    position: absolute;
+    margin-top: 1970px;
+    margin-left: 500px;
+    width: 500px;
+}
+
+#pt1 {
+
+    position: absolute;
+   width: 800px;
+   margin-top: 2100px;
+   margin-left: 350px;
+    
+}
+
+#pt2 {
+
+    position: absolute;
+    width: 800px;
+    margin-top: 2540px;
+    margin-left: 350px;
+    
+}
+
+#pt3 {
+
+    position: absolute;
+    width: 800px;
+    margin-top: 3000px;
+    margin-left: 350px;
+    
+}
+
+#momentos {
+    position: absolute;
+    margin-top: 3780px;
+    margin-left: 530px;
+    width: 400px;
+
+
+}
+
+#table3 {
+    position: absolute;
+    margin-top: 3900px;
+    margin-left: 210px;
+    
+}
+
+.img {
+
+    width: 300px;
+    padding: 20px;
+}
+
+#img1:hover {
+
+    opacity: 80%;
+}
+
+#img2:hover {
+
+    opacity: 80%;
+}
+
+#img3:hover {
+
+    opacity: 80%;
+}
+
+#img4:hover {
+
+    opacity: 80%;
+}
+
+#img5:hover {
+
+    opacity: 80%;
+}
+
+#img6:hover {
+
+    opacity: 80%;
+}
+
+#img7:hover {
+
+    opacity: 80%;
+}
+
+#img8:hover {
+
+    opacity: 80%;
+}
